@@ -9,7 +9,7 @@
 We did a lot of work in laying a foundation for the app in the last step, so now we'll do something
 simple; we will add full text search (yes, it will be simple!). We will also write an end-to-end
 test, because a good end-to-end test is a good friend. It stays with your app, keeps an eye on it,
-and quickly detects regressions.
+and quickly detects bugs.
 
 * The app now has a search box. Notice that the phone list on the page changes depending on what a
 user types into the search box.
